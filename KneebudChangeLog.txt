@@ -1,0 +1,13 @@
+KNEEBUD CHANGELOG
+
+----------------------------------------------------------------------------------------
+1.0 Alpha
+ 
+Implemented Features:
+- made entire program
+
+Fixed Bugs:
+
+Known Bugs:
+
+Planned Features:
